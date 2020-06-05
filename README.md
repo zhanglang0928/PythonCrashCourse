@@ -1,2 +1,5 @@
 # PythonCrashCourse
-Python编程：从入门到实践
+## 目录索引
+
+- [2020-06-05 Python基础知识之"变量和简单的数据类型"]()
+- [2020-06-05 Python基础知识之"列表"](./Doc/2020-06-05-Python-list.md)
