@@ -29,7 +29,7 @@ NumPy主要目标是对多维数组进行操作，可以看作是元素（通常
 
 NumPy中数组的类别称之为`ndarray`,是`array`的别称，不同于Python标准库的`array`。
 
-![概览](/PythonCrashCourse/images/20200630-NumPy-basics.png)
+![概览](images/20200630-NumPy-basics.png)
 
 
 ## 1. 6种基本属性及实例
